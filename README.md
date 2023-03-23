@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-php artisan adminlte:install
-composer require laravel/ui
-php artisan ui bootstrap --auth
+php artisan adminlte:install <br>
+composer require laravel/ui<br>
+php artisan ui bootstrap --auth<br>
 
 php artisan adminlte:install --only=auth_views
