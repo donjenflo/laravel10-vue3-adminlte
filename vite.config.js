@@ -13,6 +13,9 @@ export default defineConfig({
         }),
         vue({
             template: {
+                compilerOptions: {
+                    isCustomElement: (tag) => ['md-linedivider'].includes(tag),
+                },
                 transformAssetUrls: {
                     base: null,
                     includeAbsolute: false,
