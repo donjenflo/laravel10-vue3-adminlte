@@ -6,9 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-php artisan adminlte:install <br>
-composer require laravel/ui<br>
-php artisan ui bootstrap --auth<br>
-
-php artisan adminlte:install --only=auth_views
+<br>
+<b>LARAVEL 10 + VUE3 + ADMIN LTE</b> fast install build <br>
+<br>
+<b>To run this project make sure you ran these commands:<b><br><br>
+<code>composer install </code><br>
+<code>npm install</code>
