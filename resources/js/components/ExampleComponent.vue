@@ -9,7 +9,7 @@
             <!-- Main content -->
             <section className="content">
                 <slot name="content"></slot>
-                <div class="card my_class">1111</div>
+                <div class="card">1111</div>
                 <div class="my_class">222</div>
 
             </section>
